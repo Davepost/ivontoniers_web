@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-IvontoniersWeb::Application.config.secret_token = '351bae777a4b13c9d8258c84d6dced4336935f328ce2a05300213285961684ea1c2b3738c8306c1761c691327adfe7d81c9830c2106e09ac30fb24a5c2a6442b'
+SampleApp::Application.config.secret_token = 'c5bc1dd9e9c6bf0362bba4efd85e303180b8e1efb6e562ed3438ad85da027958fc16655c50492c18ca8adcd2d76faacfd3567fb093f7ab6c8589e43d3b8304b3'
